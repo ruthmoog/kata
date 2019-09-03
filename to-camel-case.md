@@ -40,3 +40,5 @@ def to_camel_case(title)
   title
 end
 ```
+
+![](https://github.com/ruthmoog/kata/blob/master/Screenshot%202019-09-03%20at%2018.57.25.png?raw=true)
